@@ -1,7 +1,7 @@
 // find the number of elements in an array which contains even number of digits
 
 #include <stdio.h>
-
+#include <stdlib.h>
 // function to find number of digits in an element
 int digits(int n)
 {
